@@ -10,14 +10,14 @@ It uses a **lightweight real-time ML model in the browser** to detect slouching,
 
 ---
 
+link: https://www.youtube.com/watch?v=In6uUomj5kw
+
 ## ✨ Features
 
 * 🎥 **Real-time webcam posture tracking (no uploads)**
 * 🤖 **Runs fully in-browser** — no server, no data stored
 * ⚠️ **Instant alerts** when posture becomes unhealthy
-* 📊 **Posture score & history** (optional local storage)
 * 🚀 **Fast + lightweight model optimized for the web**
-* 🔒 **Privacy first** — camera frames never leave your device
 
 ---
 
@@ -31,16 +31,9 @@ It uses a **lightweight real-time ML model in the browser** to detect slouching,
 
 ## 📦 Installation
 
-Clone the repo:
+> Clone the repo
 
-```bash
-git clone https://github.com/<your-username>/sitright.git
-cd sitright
-```
-
-Run locally:
-
-and run index.html 🙂
+> Run locally from index.html 🙂
 
 ---
 
