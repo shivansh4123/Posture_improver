@@ -1,6 +1,3 @@
-Got you 👍
-Here’s a clean **README.md** for your **SitRight** posture-detection web app.
-
 ---
 
 # 📐 SitRight — Real-Time Posture Checker
